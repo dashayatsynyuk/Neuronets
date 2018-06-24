@@ -1,0 +1,54 @@
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\bin\Debug\NeuroNets.exe.config
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\bin\Debug\NeuroNets.exe
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\bin\Debug\NeuroNets.pdb
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\obj\Debug\NeuroNets.csprojResolveAssemblyReference.cache
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\obj\Debug\NeuroNets.Form1.resources
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\obj\Debug\NeuroNets.Properties.Resources.resources
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\obj\Debug\NeuroNets.csproj.GenerateResource.Cache
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\obj\Debug\NeuroNets.exe
+c:\users\darya\documents\visual studio 2015\Projects\NeuroNets\NeuroNets\obj\Debug\NeuroNets.pdb
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\bin\Debug\NeuroNets.exe.config
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.exe
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.pdb
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\bin\Debug\NeuroNets.exe
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\bin\Debug\NeuroNets.pdb
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.csprojResolveAssemblyReference.cache
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.Form1.resources
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.Properties.Resources.resources
+C:\Users\Darya\Documents\Visual Studio 2015\Projects\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.csproj.GenerateResource.Cache
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\bin\Debug\NeuroNets.exe.config
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\bin\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\bin\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.csprojResolveAssemblyReference.cache
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.Form1.resources
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.Properties.Resources.resources
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.csproj.GenerateResource.Cache
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\OneLayerNeuroNets\NeuroNets\obj\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\bin\Debug\NeuroNets.exe.config
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\bin\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\bin\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\obj\Debug\NeuroNets.Form1.resources
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\obj\Debug\NeuroNets.Properties.Resources.resources
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\obj\Debug\NeuroNets.csproj.GenerateResource.Cache
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\obj\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\obj\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\Perceptron\NeuroNets\obj\Debug\NeuroNets.csprojResolveAssemblyReference.cache
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\bin\Debug\NeuroNets.exe.config
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\bin\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\bin\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\obj\Debug\NeuroNets.csprojResolveAssemblyReference.cache
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\obj\Debug\NeuroNets.Form1.resources
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\obj\Debug\NeuroNets.Properties.Resources.resources
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\obj\Debug\NeuroNets.csproj.GenerateResource.Cache
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\obj\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\Kohonen\NeuroNets\obj\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\bin\Debug\NeuroNets.exe.config
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\bin\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\bin\Debug\NeuroNets.pdb
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\obj\Debug\NeuroNets.csprojResolveAssemblyReference.cache
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\obj\Debug\NeuroNets.Form1.resources
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\obj\Debug\NeuroNets.Properties.Resources.resources
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\obj\Debug\NeuroNets.csproj.GenerateResource.Cache
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\obj\Debug\NeuroNets.exe
+C:\Users\dasha\Documents\Neuronets\Hopfild\NeuroNets\obj\Debug\NeuroNets.pdb
